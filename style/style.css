@@ -98,10 +98,10 @@ i {
 .join_name .bank2{
     padding-left: 20px;
 }
-.join_name .bank1 li{
+.join_name .bank1 img{
     border-radius: 7px;
 }
-.join_name .bank2 li{
+.join_name .bank2 img{
     border-radius: 7px;
 }
 p{
