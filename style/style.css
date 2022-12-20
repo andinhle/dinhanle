@@ -90,6 +90,8 @@ i {
 .join_name .bank2{
     padding-left: 190px;
 }
+.bank{
+    display: flex;
 .join_name .bank1 img{
     border-radius: 7px;
 }
