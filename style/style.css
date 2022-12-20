@@ -92,9 +92,6 @@ i {
     display: flex;
     list-style-type: none;  
 }
-.join_name .bank2{
-    padding-left: 11px;
-}
 .join_name .bank1 img{
     border-radius: 7px;
 }
