@@ -92,6 +92,12 @@ i {
     display: flex;
     list-style-type: none;
 }
+.join_name .bank1{
+    padding-right: 40px;
+}
+.join_name .bank2{
+    padding-left: 20px;
+}
 .join_name .bank li{
     border-radius: 7px;
 }
