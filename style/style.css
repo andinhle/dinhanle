@@ -45,6 +45,7 @@ body{
     align-items: center;
     font-family: Tahoma;
     transition: var(--transition-effect);
+    
 }
 
 #header_cv{
@@ -87,21 +88,16 @@ i {
     font-size: 35px;
     border-radius: 50px;
 }
-.join_name .bank2{
-    padding-left: 190px;
-}
-.bank{
+.join_name .bank{
     display: flex;
+    list-style-type: none;
+}
 .join_name .bank1 img{
     border-radius: 7px;
 }
 .join_name .bank2 img{
     border-radius: 7px;
 }
-#header_cv .end{
-    padding-top: 255px;
-    padding-left: 50px;
-}
-#header_cv .end i{
-    font-size: 35px;
+p{
+    padding-left: 70px;
 }
