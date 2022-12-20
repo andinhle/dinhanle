@@ -90,20 +90,22 @@ i {
 }
 .join_name .bank{
     display: flex;
-    list-style-type: none;
+    list-style-type: none;  
+    position: absolute;
 }
 .join_name .bank1{
-    padding-right: 40px;
-    position: absolute;
-    
+    padding-right: 50px;
 }
 .join_name .bank2{
-    padding-left: 15px;
+    padding-left: 20px;
 }
-.join_name .bank li{
+.join_name .bank1 li{
+    border-radius: 7px;
+}
+.join_name .bank2 li{
     border-radius: 7px;
 }
 p{
-    padding-left: 70px;
+    padding: 50px 70px;
     position: absolute;
 }
